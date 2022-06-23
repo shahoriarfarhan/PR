@@ -1,0 +1,18 @@
+Link to unlisted youtube video:
+https://www.youtube.com/watch?v=IsEOKEDWwmc&list=PLd7qSMD66qO6toVQuKKyLZdWT3yKEwRz7
+
+Link to the slide:
+https://docs.google.com/presentation/d/1rzm2QGf7gvI8LQadqnpOtkdJOoqOPCzQh3WyeG9Icxg/edit?usp=sharing
+
+Paper title:
+ISA:An intelligent shopping assistant
+
+Link to the paper:
+https://aclanthology.org/2020.aacl-demo.3/
+
+Group Number:
+08
+
+Group Members:
+Farhan Shahoriar
+18101682
